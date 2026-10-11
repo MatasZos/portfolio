@@ -282,6 +282,17 @@ ul {
   font-weight: 800;
 }
 
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: auto;
+}
+
+.project-links a {
+  margin-top: 0;
+}
+
 .card-top {
   display: flex;
   align-items: flex-start;
